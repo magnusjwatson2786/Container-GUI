@@ -1,0 +1,110 @@
+QWidget{
+	color:#8590C8;
+	font: 10pt "Segoe UI";
+}
+#frame_12{
+    background-color: #0F111A;
+	border: 1px solid #0F111A;
+}
+#frame_11{
+	background-color: transparent;
+	image: url(:/images/images/terminal.ico);
+	background-position: centered;
+	background-repeat: no-repeat;
+	margin-top:8px;
+}
+#frame {
+    background-color: #0E161F;
+	border:0px;
+ margin:0px;
+}
+#pushButton_4 {
+    background-color: transparent;
+}
+#frame_3 {
+    background-color: #0F111A;
+	padding-top:0px;
+	padding-right:3px;
+	padding-bottom: 5px; 
+}
+
+#frame_3 .QPushButton { 
+	background-color: rgba(255, 255, 255, 0); border: none;  border-radius: 5px;
+}
+#frame_3 .QPushButton:hover {
+	background-color:#1F2233; border-style: solid; border-radius: 4px; 
+}
+#frame_3 .QPushButton:pressed {
+	 background-color: rgb(23, 26, 30); border-style: solid; border-radius: 4px; 
+}
+#frame_2 {
+    background-color: transparent;
+	border:0px;
+}
+#label{
+	color:#82aaff;
+    font: 63 14pt "Bahnschrift Light";
+    margin: 10px;
+}
+#frame_4 .QPushButton{
+    font: 8pt "Segoe UI"; color: rgb(189, 147, 249);
+}
+#frame_4 .QPushButton:hover{
+    background-color: rgb(30,30,45);
+}
+#frame_4 .QPushButton:pressed{
+    background-color: rgb(189, 147, 249);
+	color: rgb(255, 255, 255);
+}
+#frame_7{
+	margin-right:0px;
+	border:0px;
+	padding-right:0px;
+}
+#frame_7 .QPushButton {	
+	background-position: left center;
+    background-repeat: no-repeat;
+	border: none;
+	border-left: 15px solid transparent;
+	border-right: 0px;
+	margin-right:0px;
+	background-color: transparent;
+	text-align: left;
+	padding-left: 44px;
+}
+#frame_7 .QPushButton:hover {
+	background-color:#1F2233;
+	color:#DDDDDD;
+}
+#frame_7 .QPushButton:pressed {	
+	background-color: #1E3250;
+	color: rgb(255, 255, 255);
+}
+#frame_6 {
+	 background-color: transparent;
+	 padding-top:10px;
+} 
+#label_3{
+	color:#82aaff;
+	 font: 63 12pt "Segoe UI Semibold"; 
+}
+#label_4{
+	font: 8pt "Segoe UI";
+	color: rgb(189, 147, 249);
+}
+#frame_5 {
+	 background-color: #1D222B; 
+}
+#frame_5 QLabel { 
+	font-size: 11px; color: 
+	rgb(113, 126, 149);
+	padding-left: 10px; 
+	padding-right: 10px; 
+	padding-bottom: 2px; 
+}
+#pushButton .QPushButton:hover {
+	background-color:#962128; border-style: solid; border-radius: 4px; 
+}
+#pushButton .QPushButton:pressed {
+	 background-color: rgb(23, 26, 30); border-style: solid; border-radius: 4px; 
+}
