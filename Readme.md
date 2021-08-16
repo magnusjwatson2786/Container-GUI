@@ -9,6 +9,10 @@ Made using Python and PySide6
 - Dark-themed
 - Can't think of anything else... idfk...
 
+## Screenshot
+![Alt text](Screenshots/ScreenShot_20210816190156.png?raw=true "")
+![Alt text](Screenshots/ScreenShot_20210816190205.png?raw=true "Studistics")
+
 ## Dependencies
 - [Python]
 - [PySide6]
