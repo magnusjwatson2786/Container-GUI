@@ -1,10 +1,10 @@
 <p align="center">
 # A Basic GUI container for my apps
-    
+</p>
 ![](https://img.shields.io/github/repo-size/magnusjwatson2786/Container-GUI)
 ![](https://img.shields.io/github/last-commit/magnusjwatson2786/Container-GUI)
 ![](https://img.shields.io/github/license/magnusjwatson2786/Container-GUI)
-</p>
+
 Made using Python and PySide6 
 
 ## Features
