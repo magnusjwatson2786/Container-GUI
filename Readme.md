@@ -1,6 +1,9 @@
-
-# A Basic GUI container for my apps
-
+<p align="center"><h1> A Basic GUI container for my apps </h1></p>
+<p align="center">
+<img src="https://img.shields.io/github/repo-size/magnusjwatson2786/Container-GUI">
+<img src="https://img.shields.io/github/last-commit/magnusjwatson2786/Container-GUI">
+<img src="https://img.shields.io/github/license/magnusjwatson2786/Container-GUI">
+</p>
 Made using Python and PySide6 
 
 ## Features
