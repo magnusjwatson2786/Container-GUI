@@ -14,7 +14,7 @@ Made using Python and PySide6
 
 ## Screenshots
 ![Alt text](Screenshots/ScreenShot_20210816190156.png?raw=true "")
-![Alt text](Screenshots/ScreenShot_20210816190205.png?raw=true "Studistics")
+![Alt text](Screenshots/ScreenShot_20210816190205.png?raw=true "")
 
 ## Dependencies
 - [Python]
